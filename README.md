@@ -20,7 +20,7 @@ To get a local copy up and running follow these simple example steps.
   - Read about [Ruby](https://www.tutorialspoint.com/ruby/index.htm) before start.
 
 ### Setup
-  - Better have [VS Code](https://code.visualstudio.com/) installed or install the source-code editor of your preference. 
+  - Better have IDe of your preference. 
 
 ### Install
   - In the terminal go to the folder you going to work and write the next. 
@@ -36,9 +36,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Christian Erick Contreras**
 
-- GitHub: [@eri8-9](https://github.com/eri8-9)
-- Linkedin: [LinkedIn](https://www.linkedin.com/in/christian-erick/)
-- Twitter: [@ChristianErick_](https://twitter.com/ChristianErick_)
+- GitHub: [@er-contreras](https://github.com/er-contreras)
+- Linkedin: [LinkedIn](https://www.linkedin.com/in/er-contreras/)
+- Twitter: [@er_contreras_](https://twitter.com/er_contreras_)
 
 ## 🤝 Contributing
 
